@@ -4,7 +4,7 @@ A single-div inspired, hand-coded illustration of **Zenitsu Agatsuma** from *Dem
 
 ## 🔗 Project Links
 * **Live Deployment:** [View the Live Page](https://pavithramofficial.github.io/challenge_6/)
-* **GitHub Repository:** [https://github.com/YOUR_USERNAME/zenitsu-css-art](https://github.com/pavithramofficial/challenge_6.git)
+* **GitHub Repository:** [https://github.com/pavithramofficial/callenge_6](https://github.com/pavithramofficial/challenge_6.git)
 
 ---
 
